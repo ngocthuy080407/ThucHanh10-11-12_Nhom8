@@ -11,7 +11,7 @@ Giới thiệu chung:
   - **Grok (xAI):** Cập nhật tin tức thời gian thực từ mạng xã hội X
   - **DeepSeek:** Tối ưu chi phí, mạnh về toán học và lập trình
 ## Cấu trúc dự án 
-- **File báo cáo chi tiết:** [`.docx`](https://github.com/ngocthuy080407/ThucHanh10-11-12_Nhom8/blob/main/B%C3%A1o%20c%C3%A1o%20TH%2010-12(WORD).docx)
+- **File báo cáo chi tiết:** [`.docx`](https://github.com/ngocthuy080407/ThucHanh10-11-12_Nhom8/blob/main/B%C3%A1o%20c%C3%A1o%20TH%2010-12%20(WORD).docx)
   - **Thành viên thực hiện:** Đặng Minh Hiếu, Nguyễn Thị Ngọc Thùy
 - **Slide thuyết trình:**[`.pptx`](https://github.com/ngocthuy080407/ThucHanh10-11-12_Nhom8/blob/main/B%C3%A1o%20c%C3%A1o%20TH%2010-12%20(SLIDE).pptx)
   - **Thành viên thực hiện:** Nguyễn Quốc Thịnh, Bùi Thiện Nhân
