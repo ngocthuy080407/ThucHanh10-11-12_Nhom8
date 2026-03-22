@@ -6,10 +6,10 @@ Giới thiệu chung:
 - Dự án tập trung nghiên cứu, đánh giá và so sánh 4 công cụ Chatbot AI tiêu biểu nhất hiện nay
 - Mục tiêu cho dự án: nhằm tìm ra công cụ tối ưu cho từng lĩnh vực học tập và làm việc
 - Các công cụ phân tích:
-**ChatGPT (OpenAI):** Mô hình đa năng, hệ sinh thái rộng lớn.
-**Gemini (Google):** Xử lý đa phương thức (multimodal) và context khổng lồ.
-**Grok (xAI):** Cập nhật tin tức thời gian thực từ mạng xã hội X.
-**DeepSeek:** Tối ưu chi phí, mạnh về toán học và lập trình.
+- **ChatGPT (OpenAI):** Mô hình đa năng, hệ sinh thái rộng lớn.
+- **Gemini (Google):** Xử lý đa phương thức (multimodal) và context khổng lồ.
+- **Grok (xAI):** Cập nhật tin tức thời gian thực từ mạng xã hội X.
+- **DeepSeek:** Tối ưu chi phí, mạnh về toán học và lập trình.
 ## Cấu trúc dự án 
 **File báo cáo chi tiết:** [`.docx`](https://github.com/ngocthuy080407/ThucHanh10-11-12_Nhom8/blob/main/B%C3%A1o%20c%C3%A1o%20TH%2010-12(WORD).docx)
   - **Thành viên thực hiện:** Đặng Minh Hiếu, Nguyễn Thị Ngọc Thùy
