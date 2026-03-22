@@ -15,8 +15,9 @@ Giới thiệu chung:
   - **Thành viên thực hiện:** Đặng Minh Hiếu, Nguyễn Thị Ngọc Thùy
 - **Slide thuyết trình:**[`.pptx`](https://github.com/ngocthuy080407/ThucHanh10-11-12_Nhom8/blob/main/B%C3%A1o%20c%C3%A1o%20TH%2010-12%20(SLIDE).pptx)
   - **Thành viên thực hiện:** Nguyễn Quốc Thịnh, Bùi Thiện Nhân
-- **Video minh họa:**[Video youtube](https://youtu.be/V_RcK5NsjE0)
+- **Video minh họa:** [Video youtube](https://youtu.be/V_RcK5NsjE0)
   - **Thành viên thực hiện:** Hồ Vũ Thành
+- **Phần phản ánh:** [`.docx`](https://github.com/ngocthuy080407/ThucHanh10-11-12_Nhom8/blob/main/Ph%E1%BA%A7n%20ph%E1%BA%A3n%20%C3%A1nh%20TH%2010-12_Nh%C3%B3m%208.docx)
 ## Phương pháp nghiên cứu
 - Nhóm áp dụng bài kiểm tra **CRAAP** để đánh giá tính xác thực của 6 nguồn tài liệu từ các tổ chức uy tín như OpenAI, xAI Technical, Google DeepMind, Standford, MIT Technology Review và UNESCO.
 ## Kết luận & Khuyến nghị
